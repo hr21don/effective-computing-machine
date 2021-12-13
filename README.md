@@ -1,6 +1,7 @@
 # effective-computing-machine
 In this tutorial, we look at GPU accelerated bruteforce! 
 
+**********************************************************************
 ## Get started 
 Crack your first md5 hash in 0 seconds! which is significantly faster then within a VM  or CPU alone.
  
@@ -17,23 +18,59 @@ GPUs are very good at parallelising mathematical operations, which is the basis 
 
 The same operations can be done on a CPU, they just take longer.
 
+**********************************************************************
+
 ## Hashcat Install
 
-Head over to https://hashcat.net/hashcat/ and grab the file below:
+Head over to https://hashcat.net/hashcat/ and download the file 'binaries' to your downloads directory.
 
 ```
 | hashcat | binaries | v6.2.5 | 2021.11.21 | Download | PGP |
 ```
-Extract hashcat-5.1.0
+## Extract hashcat-5.1.0
 
-Enter the directory and create x2 text files as follows
+## Enter the directory and create x2 text files as follows
 
 ```
-hash.txt "Add hashes you would like to crack."  For e.g. "e99a18c428cb38d5f260853678922e03"
-rockyou.txt "you should have cracked hashes append here." For e.g. "abc123"
+1. hash.txt "Add hashes you would like to crack."  For e.g. "e99a18c428cb38d5f260853678922e03"
+2. rockyou.txt "you should have cracked hashes append here." For e.g. "abc123"
 ```
 
 ## Testing
+
+Start by generating an md5 hash using this online generator at https://www.md5hashgenerator.com/. 
+
+```
+1. string: qwerty123
+2. md5 hash: 3fc0a7acf087f549ac2b266baf94b8b1
+```
+
+For instance, here a free hash for qwerty.
+
+<img width="523" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145874131-1c4b5990-eae5-459a-b1cc-867317f76ff0.PNG">
+
+Place the generated hash  into hash.txt and save.
+
+## Open CMD as Adminstrator
+
+![cpa_2](https://user-images.githubusercontent.com/91548582/145874630-c5009ef0-8d0b-44de-9162-8cdae152d6cb.png)
+
+**********************************************************************
+##  Navigate to Hashcat directory
+
+Use the command provided below:
+
+```
+hashcat64.exe --help
+```
+
+## Output
+
+Here is what the console should display when running hashcat:
+
+<img width="468" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145875145-c5972f61-685e-4abd-b3a9-85bc34aa6509.PNG">
+
+
 
 ## References
 
