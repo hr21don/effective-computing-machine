@@ -18,7 +18,7 @@ GPUs are very good at parallelising mathematical operations, which is the basis 
 
 The same operations can be done on a CPU, they just take longer.
 
-## Wordlists || Links Provided in the description for EDUCATIONAL PURPOSES only! 
+## Wordlists || Links Provided in the description! 
 
 The success rate will be 100% if you generate your crunch list and so I recommend you generate your own lists but here are a few to get you started!
 
