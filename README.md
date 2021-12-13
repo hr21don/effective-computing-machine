@@ -64,8 +64,6 @@ Use the command provided below:
 hashcat64.exe --help
 ```
 
-## Output
-
 Here is what the console should display when running hashcat:
 
 <img width="468" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145875145-c5972f61-685e-4abd-b3a9-85bc34aa6509.PNG">
