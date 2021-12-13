@@ -24,6 +24,16 @@ Head over to https://hashcat.net/hashcat/ and grab the file below:
 ```
 | hashcat | binaries | v6.2.5 | 2021.11.21 | Download | PGP |
 ```
+Extract hashcat-5.1.0
+
+Enter the directory and create x2 text files as follows
+
+```
+hash.txt "Add hashes you would like to crack."  For e.g. "e99a18c428cb38d5f260853678922e03"
+rockyou.txt "you should have cracked hashes append here." For e.g. "abc123"
+```
+
+## Testing
 
 ## References
 
