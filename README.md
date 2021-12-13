@@ -36,7 +36,7 @@ We only need to look at the sources that the user included in the list:
 
 ## Hashcat Install
 
-Head over to https://hashcat.net/hashcat/ and download the file 'binaries' to your downloads directory.
+Head over to [hashcat](https://hashcat.net/hashcat/) and download the file 'binaries' to your downloads directory.
 
 ```
 | hashcat | binaries | v6.2.5 | 2021.11.21 | Download | PGP |
@@ -57,7 +57,7 @@ Enter the directory and create x2 text files as follows
 
 ## Testing
 
-Start by generating an md5 hash using this online generator at https://www.md5hashgenerator.com/. 
+Start by generating an md5 hash using this online generator at [md5hashgenerator](https://www.md5hashgenerator.com/.)
 
 ```
 1. string: qwerty123
