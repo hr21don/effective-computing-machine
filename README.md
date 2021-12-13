@@ -27,8 +27,10 @@ Head over to https://hashcat.net/hashcat/ and download the file 'binaries' to yo
 ```
 | hashcat | binaries | v6.2.5 | 2021.11.21 | Download | PGP |
 ```
-## Extract hashcat-5.1.0
-
+Extract to your working directory. 
+```
+Extract hashcat-5.1.0
+```
 ## Enter the directory and create x2 text files as follows
 
 ```
