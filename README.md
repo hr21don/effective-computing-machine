@@ -112,8 +112,6 @@ In this example, the hash that was getting tested belonged to the password abc12
 ```
 e99a18c428cb38d5f260853678922e03:abc123
 ```
-<img width="306" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145876881-12e5ae5e-98a4-475e-96d6-88393aa4543d.PNG">
-
 
 ## References
 
