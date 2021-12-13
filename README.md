@@ -68,6 +68,32 @@ Here is what the console should display when running hashcat:
 
 <img width="468" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145875145-c5972f61-685e-4abd-b3a9-85bc34aa6509.PNG">
 
+**********************************************************************
+
+## Bruteforce attacking
+
+Run the command below and execute!
+
+```
+hashcat64.exe -m0 -a3 -o rockyou.txt hash.txt
+```
+
+## What are we executing?
+
+To put it simply. After, a few seconds your MD5 should be cracked! 
+
+```
+-m0 = MD5 hashes -a5 = Attack type: Brute forcing -o = output file
+```
+
+## Cracking in 0 Seconds
+
+In this example, the hash that was getting tested belonged to the password abc123. (The user of this password needs to update this weak password)
+
+```
+e99a18c428cb38d5f260853678922e03:abc123
+```
+<img width="306" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145876881-12e5ae5e-98a4-475e-96d6-88393aa4543d.PNG">
 
 
 ## References
