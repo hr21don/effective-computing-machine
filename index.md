@@ -3,7 +3,7 @@
 In this tutorial, we look at GPU accelerated bruteforce! 
 
 **********************************************************************
-### Get started 
+## Get started 
 Crack your first md5 hash in 0 seconds! which is significantly faster then within a VM  or CPU alone.
  
 ## What is Hashcat?
