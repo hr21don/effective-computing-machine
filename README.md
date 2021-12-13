@@ -102,7 +102,7 @@ hashcat64.exe -m 0 -a 0 hash.txt rockyou.txt
 To put it simply. After, a few seconds your MD5 should be cracked! 
 
 ```
--m0 = MD5 hashes -a5 = Attack type: Brute forcing -o = output file
+-m0 = MD5 hashes -a3 = Attack type: Brute forcing -o = output file
 ```
 
 ## Cracking in 0 Seconds
