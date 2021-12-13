@@ -41,7 +41,7 @@ Head over to https://hashcat.net/hashcat/ and download the file 'binaries' to yo
 ```
 | hashcat | binaries | v6.2.5 | 2021.11.21 | Download | PGP |
 ```
-Extract to your working directory. 
+Extract to your working directory. Use [7_Zip](https://www.7-zip.org/) or [WinRAR](https://www.win-rar.com/start.html?&L=0)
 ```
 Extract hashcat-5.1.0
 ```
