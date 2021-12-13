@@ -115,7 +115,7 @@ e99a18c428cb38d5f260853678922e03:abc123
 
 ## References
 
-* Phil Lello(2021). https://security.stackexchange.com/questions/118147/how-are-gpus-used-in-brute-force-attacks . Date Accessed: 13/12/21
+* Phil Lello(2021). https://security.stackexchange.com/questions/118147/how-are-gpus-used-in-brute-force-attacks .Date Accessed: 13/12/21
 * Will M.(2020). https://executeatwill.com/2019/02/11/Install-hashcat-on-windows/ . Date Accessed: 13/12/21
 * Github.(2021). https://github.com/hashcat/hashcat. Date Accessed: 13/12/21
 * CrackStation's Password Cracking Dictionary.(2021). https://archive.md/xSCHN . Date Accessed: 13.12.21
