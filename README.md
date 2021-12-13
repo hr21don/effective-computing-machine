@@ -32,7 +32,7 @@ Extract to your working directory.
 Extract hashcat-5.1.0
 ```
 
-## Enter the directory and create x2 text files as follows
+Enter the directory and create x2 text files as follows
 
 ```
 1. hash.txt "Add hashes you would like to crack."  For e.g. "e99a18c428cb38d5f260853678922e03"
