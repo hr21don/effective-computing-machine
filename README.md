@@ -22,12 +22,7 @@ The same operations can be done on a CPU, they just take longer.
 Head over to https://hashcat.net/hashcat/ and grab the file below:
 
 ```
-
-| Name |	Version |	Date |	Download |	Signature |
 | hashcat | binaries | v6.2.5 | 2021.11.21 | Download | PGP |
-| hashcat | sources | v6.2.5 | 2021.11.21 | Download |	PGP
-
-
 ```
 
 ## References
