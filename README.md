@@ -18,6 +18,20 @@ GPUs are very good at parallelising mathematical operations, which is the basis 
 
 The same operations can be done on a CPU, they just take longer.
 
+## Wordlists || Links Provided in the description for EDUCATIONAL PURPOSES only! 
+
+The success rate will be 100% if you generate your crunch list and so I recommend you generate your own lists but here are a few to get you started!
+
+We only need to look at the sources that the user included in the list:
+
+* The Crackstation.net Dictionary - In short, this is a giant list of words, with a few old passwords mixed in.
+* The Hack3r Wikipedia Wordlist – Again, just another giant wordlist from Wikipedia.
+* Daniel Meissler’s SecLists on Github – This includes common credentials, words, permutations, default credentials.
+* Berzerk0’s Probable Wordlists on Github – This includes existing passwords and dictionaries.
+* The Weakpass list – Another compilation of wordlists and existing passwords.
+* Data from COMB – This is the Combination of Many Breaches, which is another combination list that includes some existing passwords.
+
+
 **********************************************************************
 
 ## Hashcat Install
@@ -103,6 +117,11 @@ e99a18c428cb38d5f260853678922e03:abc123
 
 ## References
 
-https://security.stackexchange.com/questions/tagged/hashcat?tab=Votes 
 Phil Lello(2021)https://security.stackexchange.com/questions/118147/how-are-gpus-used-in-brute-force-attacks. Date Accessed: 13/12/21
- 
+Will M.(2020)https://executeatwill.com/2019/02/11/Install-hashcat-on-windows/. Date Accessed: 13/12/21
+Github.(2021).https://github.com/hashcat/hashcat. Date Accessed: 13/12/21
+CrackStation's Password Cracking Dictionary.(2021).https://archive.md/xSCHN. Date Accessed: 13.12.21
+Berzerk0.(2021).https://github.com/berzerk0/Probable-Wordlists . Date Accessed: 13.12.21
+Hacker3.com.(2021).https://archive.md/1GA9V. Date Accessed: 13/12/21
+Weakpasslist.(2021).https://archive.md/ISVul . Date Accessed: 13/12/21 
+DanielMiessler.(2021)https://github.com/danielmiessler/SecLists/tree/master/Passwords.Date Accessed: 13/12/21
