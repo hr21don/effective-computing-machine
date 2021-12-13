@@ -94,7 +94,7 @@ Here is what the console should display when running hashcat:
 Run the command below and execute!
 
 ```
-hashcat64.exe -m0 -a3 -o rockyou.txt hash.txt
+hashcat64.exe -m 0 -a 0 hash.txt rockyou.txt
 ```
 
 ## What are we executing?
